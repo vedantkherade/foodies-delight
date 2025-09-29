@@ -311,4 +311,20 @@
       footer div {
         gap: 30px;
       }
+
+      .menu-container {
+        padding: 10px 0;
+        justify-content: center;
+      }
+
+      .menu-table {
+        width: 95%;
+        margin: 0 auto;
+        display: block;
+      }
+
+      .menu-table img {
+        width: 100%;
+        height: auto;
+      }
     }
